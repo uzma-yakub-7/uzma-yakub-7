@@ -1,99 +1,73 @@
 <h1 align="center">Hi, I'm Uzma Yakub 👋</h1>
 
 <p align="center">
-AI-Powered Remote Business Support Specialist | Social Media | Lead Generation | Content Strategy
+AI-Powered Remote Business Support Specialist | Social Media Management | Lead Generation | Content Strategy
 </p>
 
 ---
 
-## 💼 What I Help Businesses With
+## 💼 What I Do
 
-I help businesses grow online presence, generate qualified leads, and maintain consistent content systems using AI-powered workflows.
+I help businesses improve online growth, client engagement, and content consistency using structured systems and AI-powered workflows.
 
-✔ Social Media Management & Engagement  
+✔ Social Media Management Systems  
 ✔ Lead Generation & Outreach Systems  
-✔ Content Strategy & Planning  
+✔ Content Strategy & Planning Systems  
 
 ---
 
 ## 🚀 About Me
 
-I support businesses in managing and improving their digital operations through structured systems, AI tools, and clear content workflows.
+I specialize in building structured digital systems that help businesses manage communication, content, and lead flow more efficiently.
 
-My focus is on making business communication, visibility, and lead flow more consistent and efficient.
-
-I combine:
-- Social media execution & engagement strategy  
-- Lead generation systems & client outreach  
-- Content strategy & SEO-focused planning  
-- AI tools for workflow optimization  
-- Software engineering background for structured problem-solving  
+My focus is on:
+- Improving social media consistency and engagement  
+- Building scalable lead generation workflows  
+- Creating structured content strategies for brands  
+- Using AI tools to optimize business operations  
+- Supporting remote teams with organized digital workflows  
 
 ---
 
 ## 📊 Impact Highlights
 
-- Managed **100+ leads** using CRM & Google Sheets  
-- Achieved **33% email open rate** in outreach campaigns  
-- Built **100+ weekly backlinks** for SEO support  
-- Handled **20+ client communications monthly**  
-- Supported content planning, posting, and engagement workflows  
-- Improved brand visibility through structured content systems  
+- Managed 100+ leads using CRM systems  
+- Achieved 33% email open rate in outreach campaigns  
+- Built 100+ weekly backlinks for SEO support  
+- Handled 20+ client communications monthly  
+- Supported structured social media content workflows  
 
 ---
 
 ## 🛠 Tools & Platforms
 
 Canva • WordPress • Google Sheets • ClickUp • Brevo  
-Meta Business Suite • CRM Tools • AI Productivity Tools  
+Meta Business Suite • CRM Systems • AI Productivity Tools  
 
 ---
 
-## 💼 Services I Offer
+## 💼 Services
 
-### 📱 Social Media Management
-- Content posting & scheduling  
-- Engagement & audience interaction  
-- Basic visual content coordination  
-
-### 🎯 Lead Generation
-- Prospect research & outreach  
-- CRM data organization  
-- Follow-up & pipeline tracking  
-
-### 🧠 Content Strategy
-- Content planning & structuring  
-- SEO-focused blog & caption strategy  
-- Brand messaging consistency  
-
----
-
-## 🎯 Currently Focused On
-
-- AI-powered business workflow optimization  
-- Scalable lead generation systems  
-- Content systems for consistent engagement  
-- Remote business operations support  
+📱 Social Media Management Systems  
+🎯 Lead Generation Systems  
+🧠 Content Strategy Systems  
 
 ---
 
 ## 🌍 Availability
 
-Available for remote roles aligned with:
-US • UK • Canada • EU time zones  
+Remote opportunities aligned with US • UK • Canada • EU time zones  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/uzma-yakub  
-- Medium: medium.com/@uzma-yakub-7  
-- Email: uzmayakub27@gmail.com  
+LinkedIn: www.linkedin.com/in/uzma-yakub  
+Email: uzmayakub27@gmail.com  
+Medium: medium.com/@uzma-yakub-7  
 
 ---
 
 ## 🤝 Let’s Work Together
 
-If you're looking for support in **social media management, lead generation, or content strategy**, feel free to reach out.
-
-👉 **DM me to get started with a service or collaboration**
+👉 DM me for collaboration or service inquiries
