@@ -1,76 +1,99 @@
 <h1 align="center">Hi, I'm Uzma Yakub 👋</h1>
 
 <p align="center">
-Remote Business Support Specialist • AI Social Media Support • Lead Generation 
+AI-Powered Remote Business Support Specialist | Social Media | Lead Generation | Content Strategy
 </p>
 
 ---
 
-## 💫 About Me
+## 💼 What I Help Businesses With
 
-I help businesses manage social media engagement, lead generation, inbox communication, and content workflows using AI tools and structured systems.
+I help businesses grow online presence, generate qualified leads, and maintain consistent content systems using AI-powered workflows.
 
-Currently studying Software Engineering while building experience in:
-- AI-assisted social media management
-- Lead generation & CRM organization
-- SEO content writing
-- Email outreach & inbox management
-- Canva & AI content design
-- Admin & remote business support
-
-I enjoy simplifying digital workflows and helping brands maintain consistent communication and engagement.
+✔ Social Media Management & Engagement  
+✔ Lead Generation & Outreach Systems  
+✔ Content Strategy & Planning  
 
 ---
 
-## 🛠 Skills
+## 🚀 About Me
 
-- Social Media Management
-- Lead Generation
-- Inbox & Client Communication
-- SEO Content Writing
-- Email Marketing
-- Canva Design
-- WordPress
-- CRM & Google Sheets
-- Research & Data Collection
-- AI Tools for Productivity
+I support businesses in managing and improving their digital operations through structured systems, AI tools, and clear content workflows.
 
----
+My focus is on making business communication, visibility, and lead flow more consistent and efficient.
 
-## 💼 Experience Highlights
-
-### Freelance Business Support Specialist
-- Managed outreach, follow-ups, and engagement workflows
-- Worked on SEO content, Canva design, and email campaigns
-- Supported clients remotely with organized communication systems
-
-### Business Support Assistant — Skylark International BD
-- Managed client communication through Meta Business Suite
-- Organized 100+ leads using spreadsheets and CRM tools
-- Assisted with international student application processes
-
-### Marketing Support Intern — Eurasia Group
-- Created SEO-focused content and social media posts
-- Built backlinks and supported off-page SEO tasks
-- Designed visual content using Canva and AI tools
+I combine:
+- Social media execution & engagement strategy  
+- Lead generation systems & client outreach  
+- Content strategy & SEO-focused planning  
+- AI tools for workflow optimization  
+- Software engineering background for structured problem-solving  
 
 ---
 
-## 📚 Currently Learning
+## 📊 Impact Highlights
 
-- Software Engineering
-- Better UI/UX-focused content systems
-- AI workflow optimization
-- Advanced digital marketing strategies
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/uzma-yakub
-- Medium: medium.com/@uzma-yakub-7
-- Email: uzmayakub27@gmail.com
+- Managed **100+ leads** using CRM & Google Sheets  
+- Achieved **33% email open rate** in outreach campaigns  
+- Built **100+ weekly backlinks** for SEO support  
+- Handled **20+ client communications monthly**  
+- Supported content planning, posting, and engagement workflows  
+- Improved brand visibility through structured content systems  
 
 ---
 
-⭐ Open to remote opportunities, collaborations, and freelance projects.
+## 🛠 Tools & Platforms
+
+Canva • WordPress • Google Sheets • ClickUp • Brevo  
+Meta Business Suite • CRM Tools • AI Productivity Tools  
+
+---
+
+## 💼 Services I Offer
+
+### 📱 Social Media Management
+- Content posting & scheduling  
+- Engagement & audience interaction  
+- Basic visual content coordination  
+
+### 🎯 Lead Generation
+- Prospect research & outreach  
+- CRM data organization  
+- Follow-up & pipeline tracking  
+
+### 🧠 Content Strategy
+- Content planning & structuring  
+- SEO-focused blog & caption strategy  
+- Brand messaging consistency  
+
+---
+
+## 🎯 Currently Focused On
+
+- AI-powered business workflow optimization  
+- Scalable lead generation systems  
+- Content systems for consistent engagement  
+- Remote business operations support  
+
+---
+
+## 🌍 Availability
+
+Available for remote roles aligned with:
+US • UK • Canada • EU time zones  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/uzma-yakub  
+- Medium: medium.com/@uzma-yakub-7  
+- Email: uzmayakub27@gmail.com  
+
+---
+
+## 🤝 Let’s Work Together
+
+If you're looking for support in **social media management, lead generation, or content strategy**, feel free to reach out.
+
+👉 **DM me to get started with a service or collaboration**
