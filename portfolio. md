@@ -261,6 +261,610 @@ height: 729.7445678710938;
 angle: 0 deg;
 opacity: 1;
 
+my skills: 
+width: 1920;
+height: 906;
+angle: 0 deg;
+opacity: 1;
+gap: 106.67px;
+top: 1116px;
+padding-top: 149.33px;
+padding-right: 85.33px;
+padding-bottom: 149.33px;
+padding-left: 85.33px;
+
+
+my skills-section-title: 
+width: 1024;
+height: 130.3333282470703;
+angle: 0 deg;
+opacity: 1;
+gap: 21.33px;
+
+
+my skills-section-title-text: 
+width: 87;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text-content: My Skills
+//text-typography: 
+font-family: Roboto;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #282938;
+
+my skills-section-title-content: 
+width: 1024;
+height: 77;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+
+my skills-section-title-content-text: 
+width: 1024;
+height: 77;
+angle: 0 deg;
+opacity: 1;
+text-content: My Expertise
+//text-typography: 
+font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 64px;
+leading-trim: NONE;
+line-height: 120%;
+letter-spacing: 0%;
+background: #282938;
+
+my skills-row: 
+width: 1749.3333740234375;
+height: 370.3333435058594;
+angle: 0 deg;
+opacity: 1;
+gap: 42.67px;
+
+my-skills-row-content-1: 
+width: 405.3333435058594;
+height: 370.33331298828125;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+border-radius: 10.67px;
+border-bottom-width: 4px;
+padding: 32px;
+background: #F5FCFF;
+border-bottom: 4px solid #5E3BEE
+
+my skills-row-content-1-section-title: 
+width: 341.3333435058594;
+height: 306.33331298828125;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+
+my skills-row-content-1-section-title-strategy-and-direction: 
+width: 80;
+height: 80;
+angle: 0 deg;
+opacity: 1;
+gap: 13.33px;
+border-radius: 10.67px;
+padding: 13.33px;
+background: #FFFFFF;
+box-shadow: 0px 0px 16px 0px #0000001A;
+
+my skills-row-content-1-section-title-strategy-and-direction-product-chain-png:
+width: 53.33333206176758;
+height: 53.33333206176758;
+angle: 0 deg;
+opacity: 1;
+
+my skills-row-content-1-section-title-content: 
+width: 341.3333435058594;
+height: 194.3333282470703;
+angle: 0 deg;
+opacity: 1;
+gap: 21.33px;
+
+my skills-row-content-1-section-title-content-text-1: 
+width: 341.3333435058594;
+height: 45;
+angle: 0 deg;
+opacity: 1;
+text-content: Strategy & Direction
+//text-typography: 
+font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 32px;
+leading-trim: NONE;
+line-height: 140%;
+letter-spacing: 0%;
+background: #282938;
+
+my skills-row-content-1-section-title-content-text-2: 
+width: 341.3333435058594;
+height: 128;
+angle: 0 deg;
+opacity: 1;
+text-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
+//text-typography: 
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #1C1E53;
+
+my-skills-row-content-2: 
+width: 405.3333435058594;
+height: 370.3333435058594;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+border-radius: 10.67px;
+padding: 32px;
+background: #F5FCFF;
+
+my-skills-row-content-2-section-title:
+width: 341.3333435058594;
+height: 306.3333435058594;
+angle: 0 deg;
+opacity: 1;
+gap: 21.33px;
+
+my-skills-row-content-2-section-title-branding-and-logo:
+width: 80;
+height: 80;
+angle: 0 deg;
+opacity: 1;
+gap: 13.33px;
+border-radius: 10.67px;
+padding: 13.33px;
+background: #FFFFFF;
+box-shadow: 0px 0px 16px 0px #0000001A;
+
+my-skills-row-content-2-section-title-branding-and-logo-tag-1-png:
+width: 53.33333206176758;
+height: 53.33333206176758;
+angle: 0 deg;
+opacity: 1;
+
+my-skills-row-content-2-text-1: 
+width: 341.3333435058594;
+height: 45;
+angle: 0 deg;
+opacity: 1;
+text-content: Branding & Logo
+//text-typography:
+font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 32px;
+leading-trim: NONE;
+line-height: 140%;
+letter-spacing: 0%;
+background: #282938;
+
+my-skills-row-content-2-text-2: 
+width: 341.3333435058594;
+height: 128;
+angle: 0 deg;
+opacity: 1;
+text-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
+//text-typography: 
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #000000;
+
+my-sklills-row-content-3: 
+width: 405.3333435058594;
+height: 370.3333435058594;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+border-radius: 10.67px;
+padding: 32px;
+background: #F5FCFF;
+
+my-sklills-row-content-3-section-title: 
+width: 341.3333435058594;
+height: 306.3333435058594;
+angle: 0 deg;
+opacity: 1;
+gap: 21.33px;
+
+my-sklills-row-content-3-section-title-ui-ux-design: 
+width: 80;
+height: 80;
+angle: 0 deg;
+opacity: 1;
+gap: 13.33px;
+border-radius: 10.67px;
+padding: 13.33px;
+background: #FFFFFF;
+box-shadow: 0px 0px 16px 0px #0000001A;
+
+my-sklills-row-content-3-section-title-ui-ux-design-feather-pen-png:
+width: 53.33333206176758;
+height: 53.33333206176758;
+angle: 0 deg;
+opacity: 1;
+
+my-sklills-row-content-3-section-title-content:
+width: 341.3333435058594;
+height: 205;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+
+my-sklills-row-content-3-section-title-content-text-1: 
+width: 341.3333435058594;
+height: 45;
+angle: 0 deg;
+opacity: 1;
+text-content: UI & UX Design
+//text-typography: 
+font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 32px;
+leading-trim: NONE;
+line-height: 140%;
+letter-spacing: 0%;
+background: #282938;
+
+my-sklills-row-content-3-section-title-content-text-2:
+width: 341.3333435058594;
+height: 128;
+angle: 0 deg;
+opacity: 1;
+text-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
+//text-typography: 
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #000000;
+
+my skills-row-content-4: 
+width: 405.3333435058594;
+height: 370.3333435058594;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+border-radius: 10.67px;
+padding: 32px;
+background: #F5FCFF;
+
+my skills-row-content-4-section-title: 
+width: 341.3333435058594;
+height: 306.3333435058594;
+angle: 0 deg;
+opacity: 1;
+gap: 21.33px;
+
+my skills-row-content-4-section-title-web-flow-development: 
+width: 80;
+height: 80;
+angle: 0 deg;
+opacity: 1;
+gap: 13.33px;
+border-radius: 10.67px;
+padding: 13.33px;
+background: #FFFFFF;
+box-shadow: 0px 0px 16px 0px #0000001A;
+
+my skills-row-content-4-section-title-web-flow-development-code-1-png:
+width: 53.33333206176758;
+height: 53.33333206176758;
+angle: 0 deg;
+opacity: 1;
+
+my skills-row-content-4-section-title-content:
+width: 341.3333435058594;
+height: 205;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+
+my skills-row-content-4-section-title-content-text-1:
+width: 341.3333435058594;
+height: 45;
+angle: 0 deg;
+opacity: 1;
+text-content: Webflow Development
+//text-typography: 
+font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 32px;
+leading-trim: NONE;
+line-height: 140%;
+letter-spacing: 0%;
+background: #282938;
+
+my skills-row-content-4-section-title-content-text-2:
+width: 341.3333435058594;
+height: 128;
+angle: 0 deg;
+opacity: 1;
+text-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
+//text-typography:
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #000000;
+
+about: 
+width: 1920;
+height: 1262.6666259765625;
+angle: 0 deg;
+opacity: 1;
+gap: 114.67px;
+top: 2022.67px;
+padding-top: 133.33px;
+padding-right: 85.33px;
+padding-bottom: 133.33px;
+padding-left: 85.33px;
+
+about-about-me.png: 
+width: 813.3333129882812;
+height: 996;
+angle: 0 deg;
+opacity: 1;
+
+about-frame-13:
+width: 821.3333129882812;
+height: 403.6666564941406;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+
+about-frame-13-frame-12:
+width: 280;
+height: 119.66666412353516;
+angle: 0 deg;
+opacity: 1;
+gap: 10.67px;
+
+about-frame-13-frame-12-text-1:
+width: 58;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text-content: About
+//text-typography:
+font-family: Roboto;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #282938;
+
+about-frame-13-frame-12-text-2: 
+width: 280;
+height: 77;
+angle: 0 deg;
+opacity: 1;
+text-content: About Me
+//text-typography: 
+font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 64px;
+leading-trim: NONE;
+line-height: 120%;
+letter-spacing: 0%;
+background: #282938;
+
+about-frame-13-text:
+width: 821.3333129882812;
+height: 252;
+angle: 0 deg;
+opacity: 1;
+text-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus massa sollicitudin amet augue. Nibh metus a semper purus mauris duis. Lorem eu neque, tristique quis duis. Nibh scelerisque ac adipiscing velit non nulla in amet pellentesque.Sit turpis pretium eget maecenas. Vestibulum dolor mattis consectetur eget commodo vitae. Amet pellentesque sit pulvinar lorem mi a, euismod risus r.
+//text-typography:
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #1C1E53;
+
+blog:
+width: 1920;
+height: 1190;
+angle: 0 deg;
+opacity: 1;
+gap: 106.67px;
+top: 3210.67px;
+padding-top: 149.33px;
+padding-right: 85.33px;
+padding-bottom: 149.33px;
+padding-left: 85.33px;
+
+blog-section-header:
+width: 1749.3333740234375;
+height: 130.3333282470703;
+justify-content: space-between;
+angle: 0 deg;
+opacity: 1;
+
+blog-section-header-section-title: 
+width: 1024;
+height: 130.3333282470703;
+angle: 0 deg;
+opacity: 1;
+gap: 21.33px;
+
+blog-section-header-section-title-text: 
+width: 152;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text-content: Recent Projects
+//text-typography:
+font-family: Roboto;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #282938;
+
+blog-section-header-section-title-content:
+width: 1024;
+height: 77;
+angle: 0 deg;
+opacity: 1;
+gap: 32px;
+
+blog-section-header-section-title-content-text:
+width: 1024;
+height: 77;
+angle: 0 deg;
+opacity: 1;
+text-content: My Portfolio
+//text-typography:
+font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 64px;
+leading-trim: NONE;
+line-height: 120%;
+letter-spacing: 0%;
+background: #282938;
+
+blog-section-header-social-button: 
+Social="Dribbble";
+Supporting text=True;
+Theme="Brand";
+State="Hover";
+width: 251.6666717529297;
+height: 74.66667175292969;
+angle: 0 deg;
+opacity: 1;
+gap: 16px;
+border-radius: 10.67px;
+padding-top: 13.33px;
+padding-right: 21.33px;
+padding-bottom: 13.33px;
+padding-left: 21.33px;
+background: #E62872;
+box-shadow: 0px 1.33px 2.67px 0px #1018280D;
+
+blog-section-header-social-button-social-icon:
+Platform="Dribbble";
+Color="White";
+State="Default";
+width: 32;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+
+blog-section-header-social-button-social-icon-vector:
+width: 32;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+background: #FFFFFF;
+
+blog-section-header-social-button-text:
+width: 161;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text-content:Visit My Dribbble
+//text-typography:
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+blog-content: 
+
+blog-content-content:
+
+blog-content-content-row:
+
+blog-content-content-row-card-1:
+
+blog-content-content-row-card-2:
+
+blog-content-content-row-card-3:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
