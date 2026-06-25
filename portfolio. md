@@ -1,0 +1,287 @@
+landing page: 
+width: 1920;
+height: 7296;
+angle: 0 deg;
+opacity: 1;
+background: #FFFFFF;
+
+landing page-navbar: 
+width: 1920;
+height: 120;
+padding-right: 85.33px;
+padding-left: 85.33px;
+angle: 0 deg;
+opacity: 1;
+background: #FFFFFF;
+box-shadow: 0px 5.33px 80px 0px #0000001A;
+
+navbar-container: 
+width: 1749.3333740234375;
+height: 69.33333587646484;
+gap: 42.67px;
+angle: 0 deg;
+opacity: 1;
+
+navbar-container-logo: 
+width: 186.6666717529297;
+height: 40;
+angle: 0 deg;
+opacity: 1;
+
+navbar-container-col-1: 
+width: 368.66668701171875;
+height: 36;
+angle: 0 deg;
+opacity: 1;
+
+navbar-contaioner-col-2;
+width: 484;
+height: 32;
+gap: 42.67px;
+angle: 0 deg;
+opacity: 1;
+
+navbar-container-col-2-text-1: 
+width: 58;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text content Home
+//typography: 
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #5E3BEE;
+
+navbar-container-col-2-text-2: 
+width: 83;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text content Portfolio
+//typography:
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #1C1E53;
+
+navbar-container-col-2-text-3: 
+width: 93;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text content About me
+//typography:
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #1C1E53;
+
+navbar-container-col-2-text-4: 
+width: 122;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text content Testimonials
+//typography:
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #1C1E53;
+
+navbar-container-col-3:
+width: 368.66668701171875;
+height: 69.33333587646484;
+angle: 0 deg;
+opacity: 1;
+
+navbar-container-button
+width: 170.6666717529297;
+height: 69.33333587646484;
+padding-top: 18.67px;
+padding-right: 42.67px;
+padding-bottom: 18.67px;
+padding-left: 42.67px;
+gap: 10.67px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 5.33px;
+border-width: 1.33px;
+border: 1.33px solid #5E3BEE
+
+navbar-container-button-contact me: 
+width: 110;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text content Contact Me
+//typography:
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #5E3BEE;
+
+header: 
+width: 1920;
+height: 996.4111938476562;
+top: 120px;
+padding-top: 133.33px;
+padding-right: 85.33px;
+padding-bottom: 133.33px;
+padding-left: 85.33px;
+angle: 0 deg;
+opacity: 1;
+background: #F5FCFF;
+
+header-header-left: 
+width: 790.6666870117188;
+height: 526.6666870117188;
+gap: 32px;
+angle: 0 deg;
+opacity: 1;
+
+
+header-header-left-content: 
+width: 790.6666870117188;
+height: 320;
+gap: 21.33px;
+angle: 0 deg;
+opacity: 1;
+
+header-header-left-content-text-1: 
+width: 141;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text content Hey, I am John
+//typography: 
+font-family: Roboto;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #282938;
+
+header-header-left-content-text-2: 
+width: 790.6666870117188;
+height: 172;
+angle: 0 deg;
+opacity: 1;
+text content: I create product design and brand experience
+//typography: 
+font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 74.67px;
+leading-trim: NONE;
+line-height: 120%;
+letter-spacing: 0%;
+background: #282938;
+
+header-header-left-content-text-3:
+width: 621.3333129882812;
+height: 73.33333587646484;
+angle: 0 deg;
+opacity: 1;
+text-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
+//typography: 
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #1C1E53;
+
+
+header-header-left-actions: 
+width: 170.6666717529297;
+height: 90.66667175292969;
+padding-top: 21.33px;
+gap: 21.33px;
+angle: 0 deg;
+opacity: 1;
+
+header-header-left-actions-button: 
+width: 170.6666717529297;
+height: 69.33333587646484;
+padding-top: 18.67px;
+padding-right: 42.67px;
+padding-bottom: 18.67px;
+padding-left: 42.67px;
+gap: 10.67px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 5.33px;
+background: #5E3BEE;
+
+header-header-left-actions-button-text: 
+width: 120;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+text-content: Get In Touch
+//typography: 
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21.33px;
+leading-trim: NONE;
+line-height: 150%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+header-group 11.png: 
+width: 917.3333129882812;
+height: 729.7445678710938;
+angle: 0 deg;
+opacity: 1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
